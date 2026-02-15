@@ -15,3 +15,10 @@ print - print all values from list
 save - convert all values from list to bytes, and save this bytes to file
 
 exit - exit from program
+
+
+### Information
+
+For work HexEditor, need [Separation](https://github.com/Peach016/Separation).
+
+HexEditor and Separation must be a one folder.
